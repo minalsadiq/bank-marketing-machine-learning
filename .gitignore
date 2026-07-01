@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Python Environment
+.python-version
+
+# Models
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+
+# CatBoost
+catboost_info/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Cache
+.cache/
+
+# Environment Variables
+.env
