@@ -317,7 +317,7 @@ The project can be further enhanced by adding:
 
 # 👨‍💻 Author
 
-**Muhammad Minu**
+**Minal Sadiq**
 
 Machine Learning Project
 
