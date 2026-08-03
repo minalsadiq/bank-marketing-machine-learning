@@ -39,7 +39,7 @@ no  = Customer did not subscribe
 
 # 🚀 Project Workflow
 
-## 📒 Notebook 01 — Data Profiling
+## 📒 Notebook 01: Data Profiling
 
 Performed:
 
@@ -57,7 +57,7 @@ Performed:
 
 ---
 
-## 📒 Notebook 02 — Data Preprocessing
+## 📒 Notebook 02: Data Preprocessing
 
 Performed:
 
@@ -74,7 +74,7 @@ Performed:
 
 ---
 
-## 📒 Notebook 03 — Model Building
+## 📒 Notebook 03: Model Building
 
 Implemented:
 
@@ -99,7 +99,7 @@ Feature Importance Analysis:
 
 ---
 
-## 📒 Notebook 04 — Advanced Machine Learning Models
+## 📒 Notebook 04: Advanced Machine Learning Models
 
 Implemented:
 
@@ -119,7 +119,7 @@ Selected the best-performing advanced model.
 
 ---
 
-## 📒 Notebook 05 — Cross Validation + MLflow + Hyperparameter Tuning
+## 📒 Notebook 05: Cross Validation + MLflow + Hyperparameter Tuning
 
 Implemented:
 
